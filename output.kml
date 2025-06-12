@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <LineStyle id="5">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="8">
+            <LineStyle id="9">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="12">
+            <LineStyle id="13">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="16">
+            <LineStyle id="17">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="20">
+            <LineStyle id="21">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="24">
+            <LineStyle id="25">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="28">
+            <LineStyle id="29">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="32">
+            <LineStyle id="33">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="36">
+            <LineStyle id="37">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="40">
+            <LineStyle id="41">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="44">
+            <LineStyle id="45">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="48">
+            <LineStyle id="49">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="52">
+            <LineStyle id="53">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="56">
+            <LineStyle id="57">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="60">
+            <LineStyle id="61">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="64">
+            <LineStyle id="65">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="68">
+            <LineStyle id="69">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="72">
+            <LineStyle id="73">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="76">
+            <LineStyle id="77">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="80">
+            <LineStyle id="81">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="84">
+            <LineStyle id="85">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="88">
+            <LineStyle id="89">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="92">
+            <LineStyle id="93">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="96">
+            <LineStyle id="97">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="104">
+            <LineStyle id="106">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="105">
+                <color>64008000</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Line 23°</name>
+            <styleUrl>#4</styleUrl>
+            <LineString id="2">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.98590867131644,1.365470985366949,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7">
+            <name>Line 38°</name>
+            <styleUrl>#8</styleUrl>
+            <LineString id="6">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.99197891197083,1.361896307358176,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11">
+            <name>Line 53°</name>
+            <styleUrl>#12</styleUrl>
+            <LineString id="10">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.99691683719594,1.3568727735037056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="15">
+            <name>Line 68°</name>
+            <styleUrl>#16</styleUrl>
+            <LineString id="14">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 104.00038593595998,1.3507427370882825,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="19">
+            <name>Line 83°</name>
+            <styleUrl>#20</styleUrl>
+            <LineString id="18">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 104.00214980303389,1.3439239565500736,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="23">
+            <name>Line 98°</name>
+            <styleUrl>#24</styleUrl>
+            <LineString id="22">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 104.00208824737864,1.3368811241693759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="27">
+            <name>Line 113°</name>
+            <styleUrl>#28</styleUrl>
+            <LineString id="26">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 104.00020547928192,1.3300941971010585,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="31">
+            <name>Line 128°</name>
+            <styleUrl>#32</styleUrl>
+            <LineString id="30">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.99662981931692,1.324025689181496,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="35">
+            <name>Line 143°</name>
+            <styleUrl>#36</styleUrl>
+            <LineString id="34">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.99160495005921,1.3190891524757395,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="39">
+            <name>Line 158°</name>
+            <styleUrl>#40</styleUrl>
+            <LineString id="38">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.98547330764,1.3156209961877672,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="43">
+            <name>Line 173°</name>
+            <styleUrl>#44</styleUrl>
+            <LineString id="42">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.97865274544156,1.3138575629466722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="47">
+            <name>Line 188°</name>
+            <styleUrl>#48</styleUrl>
+            <LineString id="46">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.97160806019896,1.313919024154771,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="51">
+            <name>Line 203°</name>
+            <styleUrl>#52</styleUrl>
+            <LineString id="50">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.96481932039077,1.3158011914638759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55">
+            <name>Line 218°</name>
+            <styleUrl>#56</styleUrl>
+            <LineString id="54">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.95874915436988,1.31937580216987,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59">
+            <name>Line 233°</name>
+            <styleUrl>#60</styleUrl>
+            <LineString id="58">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.95381122645807,1.324399259085161,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="63">
+            <name>Line 248°</name>
+            <styleUrl>#64</styleUrl>
+            <LineString id="62">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.95034204840702,1.3305292295407944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="67">
+            <name>Line 263°</name>
+            <styleUrl>#68</styleUrl>
+            <LineString id="66">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.9485780466907,1.337347972772472,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="71">
+            <name>Line 278°</name>
+            <styleUrl>#72</styleUrl>
+            <LineString id="70">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.94863944842547,1.3443908064961478,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="75">
+            <name>Line 293°</name>
+            <styleUrl>#76</styleUrl>
+            <LineString id="74">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.95052208456649,1.351177773197103,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="79">
+            <name>Line 308°</name>
+            <styleUrl>#80</styleUrl>
+            <LineString id="78">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.95409766989796,1.3572463484194337,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="83">
+            <name>Line 323°</name>
+            <styleUrl>#84</styleUrl>
+            <LineString id="82">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.95912254184235,1.3621829620643702,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87">
+            <name>Line 338°</name>
+            <styleUrl>#88</styleUrl>
+            <LineString id="86">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.96525426354854,1.3656511843121433,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="91">
+            <name>Line 353°</name>
+            <styleUrl>#92</styleUrl>
+            <LineString id="90">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.9720749603894,1.36741465485978,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="95">
+            <name>Line 8°</name>
+            <styleUrl>#96</styleUrl>
+            <LineString id="94">
+                <coordinates>103.9753638888889,1.3406361111111111,0.0 103.97911979955252,1.3673531923087028,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="99">
+            <name>Circle</name>
+            <styleUrl>#104</styleUrl>
+            <Polygon id="98">
+                <outerBoundaryIs>
+                    <LinearRing id="102">
+                        <coordinates>103.9753638888889,1.3676157592886733,0.0 103.97771598999888,1.3675130924451995,0.0 103.9800501896033,1.3672058732976802,0.0 103.98234872245625,1.3666964400472112,0.0 103.9845940947936,1.365988669915536,0.0 103.98676921748768,1.3650879496330928,0.0 103.98885753612102,1.364001134437391,0.0 103.99084315698823,1.3627364958939234,0.0 103.99271096806713,1.361303658936949,0.0 103.99444675403784,1.3597135286095392,0.0 103.99603730447438,1.357978207060707,0.0 103.99747051438524,1.3561109014316008,0.0 103.9987354763377,1.3541258233320914,0.0 103.99982256346476,1.352038080673075,0.0 104.00072350272343,1.3498635626779898,0.0 104.00143143784662,1.3476188189489224,0.0 104.0019409815104,1.3453209335079057,0.0 104.00224825631962,1.3429873947722173,0.0 104.00235092430064,1.3406359624533883,0.0 104.0022482046772,1.338284532393004,0.0 104.0019408797947,1.3359510003640274,0.0 104.00143128914821,1.3336531258742097,0.0 104.00072331156042,1.3314083970080821,0.0 103.99982233564556,1.329233897336075,0.0 103.99873521878447,1.3271461759035377,0.0 103.99747023492363,1.325161121288952,0.0 103.99603701159565,1.323293840689638,0.0 103.99444645664099,1.3215585449549483,0.0 103.99271067518839,1.3199684404416814,0.0 103.99084287752657,1.3185356285145011,0.0 103.98885727856775,1.3172710134559609,0.0 103.98676898966845,1.3161842194867421,0.0 103.98459390363055,1.3152835175273816,0.0 103.9823485737578,1.3145757622586498,0.0 103.98005008788758,1.3140663399593833,0.0 103.97771593835644,1.3137591275185783,0.0 103.9753638888889,1.3136564629335494,0.0 103.97301183942135,1.3137591275185783,0.0 103.97067768989022,1.3140663399593833,0.0 103.96837920401998,1.3145757622586498,0.0 103.96613387414723,1.3152835175273814,0.0 103.96395878810935,1.3161842194867421,0.0 103.96187049921004,1.3172710134559609,0.0 103.95988490025121,1.3185356285145011,0.0 103.95801710258941,1.3199684404416814,0.0 103.95628132113681,1.3215585449549483,0.0 103.95469076618214,1.323293840689638,0.0 103.95325754285417,1.325161121288952,0.0 103.95199255899333,1.3271461759035377,0.0 103.95090544213222,1.329233897336075,0.0 103.95000446621737,1.3314083970080821,0.0 103.94929648862959,1.3336531258742097,0.0 103.9487868979831,1.3359510003640274,0.0 103.94847957310058,1.338284532393004,0.0 103.94837685347716,1.3406359624533883,0.0 103.94847952145817,1.342987394772217,0.0 103.94878679626738,1.3453209335079057,0.0 103.94929633993117,1.3476188189489224,0.0 103.95000427505435,1.3498635626779898,0.0 103.95090521431302,1.352038080673075,0.0 103.9519923014401,1.3541258233320914,0.0 103.95325726339254,1.3561109014316008,0.0 103.95469047330342,1.357978207060707,0.0 103.95628102373995,1.3597135286095392,0.0 103.95801680971066,1.361303658936949,0.0 103.95988462078957,1.3627364958939234,0.0 103.96187024165677,1.364001134437391,0.0 103.96395856029011,1.3650879496330928,0.0 103.9661336829842,1.365988669915536,0.0 103.96837905532153,1.3666964400472112,0.0 103.9706775881745,1.3672058732976802,0.0 103.97301178777892,1.3675130924451995,0.0 103.9753638888889,1.3676157592886733,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

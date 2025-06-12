@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="10">
+            <LineStyle id="12">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+            <PolyStyle id="11">
+                <color>640000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Reference Point</name>
+            <Point id="2">
+                <coordinates>103.97535555555555,1.340847222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>2D Field of View</name>
+            <styleUrl>#10</styleUrl>
+            <Polygon id="4">
+                <outerBoundaryIs>
+                    <LinearRing id="8">
+                        <coordinates>103.97535555555555,1.340847222222222,0.0 103.97335241333226,1.3550963329180965,0.0 103.98699984769127,1.3493049221162066,0.0 103.97535555555555,1.340847222222222,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KML Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            max-width: 800px;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .submit-btn {
+            background-color: #007BFF;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .submit-btn:hover {
+            background-color: #0056b3;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>KML Generator Tool</h1>
+
+    <form action="/generate" method="POST">
+
+        <div class="section">
+            <h2>Reference Point</h2>
+            <label>Latitude (Decimal)</label>
+            <input type="text" name="latitude" placeholder="e.g., 1.3521">
+            <label>Longitude (Decimal)</label>
+            <input type="text" name="longitude" placeholder="e.g., 103.8198">
+
+            <label>Latitude (DMS)</label>
+<input type="number" name="lat_deg" placeholder="Degrees" step="1">°
+<input type="number" name="lat_min" placeholder="Minutes" step="1">' 
+<input type="number" name="lat_sec" placeholder="Seconds" step="0.01">"
+
+<label>Longitude (DMS)</label>
+<input type="number" name="lng_deg" placeholder="Degrees" step="1">°
+<input type="number" name="lng_min" placeholder="Minutes" step="1">' 
+<input type="number" name="lng_sec" placeholder="Seconds" step="0.01">"
+
+        </div>
+
+        <div class="section">
+            <h2>Line from Reference Point</h2>
+            <label>Bearing (degrees)</label>
+            <input type="number" name="line_bearing" placeholder="e.g., 45">
+            <label>Length (meters)</label>
+            <input type="number" name="line_length" placeholder="e.g., 1000">
+        </div>
+
+        <div class="section">
+            <h2>Multiple Lines</h2>
+            <label>Start Bearing (degrees)</label>
+            <input type="number" name="start_bearing" placeholder="e.g., 30">
+            <label>Line Length (meters)</label>
+            <input type="number" name="multi_line_length" placeholder="e.g., 500">
+        </div>
+
+        <div class="section">
+            <h2>Draw Circle</h2>
+            <label>Radius (meters)</label>
+            <input type="number" name="circle_radius" placeholder="e.g., 1000">
+        </div>
+
+        <div class="section">
+            <h2>2D Field of View</h2>
+            <label>Field of View Angle (degrees)</label>
+            <input type="number" name="fov_angle" placeholder="e.g., 78">
+            <label>Start Bearing (center line)</label>
+            <input type="number" name="fov_start_bearing" placeholder="e.g., 203">
+            <label>Length (meters)</label>
+            <input type="number" name="fov_length" placeholder="e.g., 1000">
+        </div>
+
+        <div class="section">
+            <h2>File Options</h2>
+            <label>Custom Filename</label>
+            <input type="text" name="filename" placeholder="e.g., my_kml_output">
+        </div>
+
+        <button type="submit" class="submit-btn">Generate KML</button>
+    </form>
+</body>
+</html>
